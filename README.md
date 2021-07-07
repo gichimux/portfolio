@@ -1,3 +1,3 @@
 # portfolio
-my portfolio site
-This is version 3.0
+
+This is version 3.0 of my portfolio site
